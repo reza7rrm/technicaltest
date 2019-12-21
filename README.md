@@ -14,3 +14,7 @@ And in Linux and Mac(possibly) to:
 ```
 "start": "PORT=3001 react-scripts start"
 ```
+Finally to run the project use the following command:
+```
+npm start
+```
